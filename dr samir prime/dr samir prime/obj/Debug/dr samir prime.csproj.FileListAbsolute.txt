@@ -1,0 +1,8 @@
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\bin\Debug\dr samir prime.exe.config
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\bin\Debug\dr samir prime.exe
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\bin\Debug\dr samir prime.pdb
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\obj\Debug\dr samir prime.csproj.AssemblyReference.cache
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\obj\Debug\dr samir prime.csproj.SuggestedBindingRedirects.cache
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\obj\Debug\dr samir prime.csproj.CoreCompileInputs.cache
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\obj\Debug\dr samir prime.exe
+C:\Users\GolD\source\repos\dr samir prime\dr samir prime\obj\Debug\dr samir prime.pdb
